@@ -14,6 +14,3 @@ This project is a simple digital clock built with HTML, CSS, and JavaScript. The
 - **CSS3**: Styling for creating the glowing effect and realistic design.
 - **JavaScript**: Logic for updating the clock in real-time.
 
-## Installation
-
-To use this project, simply clone the repository and open the `index.html` file in your browser
