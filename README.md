@@ -14,3 +14,4 @@ This project is a simple digital clock built with HTML, CSS, and JavaScript. The
 - **CSS3**: Styling for creating the glowing effect and realistic design.
 - **JavaScript**: Logic for updating the clock in real-time.
 
+ [Live Link](https://66d53d44b075bd938264217f--fluffy-toffee-c9e30e.netlify.app/)
