@@ -1,0 +1,11 @@
+.clock-section {
+    font-size: 80px;
+    text-align: center;
+    border: 10px solid #444;
+    padding: 100px 0px;
+    background: radial-gradient(circle, #333, #000);
+    color: #32CD32;
+    box-shadow: 0px 0px 20px #32CD32;
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
